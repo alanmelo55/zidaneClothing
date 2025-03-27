@@ -1,0 +1,37 @@
+.principalProducto{
+    background: linear-gradient(90deg, black, black, indigo);
+    width: 110%;
+    height:700px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.formulario{
+    background: linear-gradient(90deg, black, black,indigo);
+    width: 600px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.caja{
+    background-color: rgb(0, 0, 0);
+    color: azure;
+    width: 200px;
+    height: 70px;
+    margin: 10px;
+    border-radius: 20px;
+    box-shadow: 6px 6px 6px indigo;
+}
+
+.categorias{
+ background-color: indigo;
+ color: azure;
+ 
+
+
+}
